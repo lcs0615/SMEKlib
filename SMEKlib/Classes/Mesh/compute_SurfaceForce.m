@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Classes/Mesh/compute_SurfaceForce.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function F = compute_SurfaceForce(Br, msh1_top, msh1_bottom, msh2_top, msh2_bottom)
 
 %quadrature points

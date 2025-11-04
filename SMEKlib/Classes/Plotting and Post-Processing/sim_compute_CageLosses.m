@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Classes/Plotting and Post-Processing/sim_compute_CageLosses.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function [Pmean, P_bar, J] = sim_compute_CageLosses(sim, pars, varargin)
 %fun_PMlosses Compute PM losses from results.
 %

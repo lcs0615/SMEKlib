@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Conductor Decomposition/assemble_MortarMatrix.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function [M_ss, M_sm] = assemble_MortarMatrix(msh_master, msh_slave, boundaryData, M_ss, M_sm, varargin)
 % assume two meshes "master" and "slave", joined together at a boundary
 % defined in boundaryData.

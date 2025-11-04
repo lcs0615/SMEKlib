@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Winding Configuration/slotConnectionMatrix_1.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function Ck = slotConnectionMatrix_1(N_conductors, N_series, W, k, varargin)
 %slotConnectionMatrix_1 loop matrix for a single slot.
 % 

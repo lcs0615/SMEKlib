@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Classes/Workflow/sim_initialConditions.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 pars_ref = SimulationParameters('f', 1000, 'U', 400, 'slip', 0.5e-2, 'N_periods', 6);
 
 pars = pars_ref;

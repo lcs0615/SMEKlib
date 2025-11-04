@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Rotor Movement/Moving Band/aux_polyvals.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function val = aux_polyvals(ps, xs)
 %val = aux_polyvals(ps, xs) returns the values val of polynomials ps evaluated at the points xs
 %   val = N x n array of polynomial values

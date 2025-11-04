@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Fast Basic Matrix Assembly/math_course_inttri.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 % function [X,W]=inttri(p)
 %
 % The program gives the sample points X as a (2,n)-matrix and 

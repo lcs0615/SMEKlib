@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Conductor Decomposition/lockstepConvolution_2.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function [hconst, varargout] = lockstepConvolution_2(Xs, h_imp, Nrows, N1, N2, varargin)
 %lockstepConvolution_2 convolution with equal time-step lengths.
 %

@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Winding Configuration/doubleLayerFunction_1.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function DL = doubleLayerFunction_1(slotsPerPoleAndPhase, chordingPitch)
 
 %original

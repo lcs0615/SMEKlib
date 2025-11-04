@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Winding Configuration/connectionMatrixFunction_1.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function Ck = connectionMatrixFunction_1(N_strands, N_series, Double_Layer, slot)
 %makes the connection matrix for slot nr. "slot"
 %a double layer with 2 parallel paths assumed

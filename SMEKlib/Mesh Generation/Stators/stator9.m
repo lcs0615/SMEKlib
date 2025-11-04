@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Mesh Generation/Stators/stator9.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function msh = stator9(msh,dim)
 if dim.SSM1 ~= 0
     A1 = size(find(msh.matel == dim.SSM1));
