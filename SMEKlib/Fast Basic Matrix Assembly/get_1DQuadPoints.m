@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Fast Basic Matrix Assembly/get_1DQuadPoints.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function [x_quad, W_quad] = get_1DQuadPoints(N_quad)
 %internal_getQuadPoints returns 1D Gaussian quadrature points;
 %copy-pasted from https://pomax.github.io/bezierinfo/legendre-gauss.html

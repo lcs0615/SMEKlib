@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Classes/Mesh/msh_split_edges.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function msh = msh_split_edges(msh, ed)
 %split_edges Splits edges in two.
 % 

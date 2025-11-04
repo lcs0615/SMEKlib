@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: gwrap/gw_addPcws.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function this = gw_addPcws(this, varargin)
 %gw_addPcws add surface defined piecewise by segments
 % 

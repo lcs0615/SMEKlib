@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Conductor Decomposition/closestSegmentToNode.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function S = closestSegmentToNode(P_nodes, P1, P2)
 %given a set of node coordinates in P_nodes, and start and end coordinates
 %of line segments P1-->P2, returns the closest segment S(1,:) to each node,

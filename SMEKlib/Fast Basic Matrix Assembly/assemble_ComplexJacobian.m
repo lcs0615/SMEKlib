@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Fast Basic Matrix Assembly/assemble_ComplexJacobian.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function [Jrr, Jri, Jir, Jii, rr, ri] = assemble_ComplexJacobian(nu_fun, X, ~, msh)
 %assemble_ComplexJacobian assembles the Jacobian for a complex problem.
 % 

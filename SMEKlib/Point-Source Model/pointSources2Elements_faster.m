@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Point-Source Model/pointSources2Elements_faster.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function [points, elements] = pointSources2Elements_faster(x,y,mesh)
 %pointSources2Elements_faster generates point-wise data for mesh.
 %

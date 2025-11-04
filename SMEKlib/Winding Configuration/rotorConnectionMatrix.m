@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Winding Configuration/rotorConnectionMatrix.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function [Lr, Z_ew, L_ew] = rotorConnectionMatrix(Qr, N_sec, p, varargin)
 %rotorConnectionMatrix returns the loop matrices for the rotor cage.
 % 

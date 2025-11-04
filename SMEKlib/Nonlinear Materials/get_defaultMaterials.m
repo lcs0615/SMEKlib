@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Nonlinear Materials/get_defaultMaterials.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function [BH, lossCoeffs, density] = get_defaultMaterials(matNumber)
 %get_defaultMaterials returns the BH curve for some materials
 %
@@ -14,7 +18,7 @@ function [BH, lossCoeffs, density] = get_defaultMaterials(matNumber)
 % included here:
 %   0 = air
 %   1 = construction steel (Ovako 520 L)
-%   2 = Electrical steel sheet � Bochum STABOLEC 260-50 A
+%   2 = Electrical steel sheet  Bochum STABOLEC 260-50 A
 %   3 = slot wedge material
 %   4 = M27 steel
 %   5 = linear iron (mu_r = 1000)

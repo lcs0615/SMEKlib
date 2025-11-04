@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Mesh Generation/singleLayerAGtriangulation_2.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function tag = singleLayerAGtriangulation_2(msh, n_ag_s, n_ag_r)
 %singleLayerAGtriangulation Single-layer air-gap triangulation.
 % 

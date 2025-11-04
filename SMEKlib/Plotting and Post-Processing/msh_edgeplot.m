@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Plotting and Post-Processing/msh_edgeplot.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function h = msh_edgeplot(msh, edges, varargin)
 %msh_edgeplot plots edges of the mesh.
 % 

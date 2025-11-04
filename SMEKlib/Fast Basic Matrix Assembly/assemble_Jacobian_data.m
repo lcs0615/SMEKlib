@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Fast Basic Matrix Assembly/assemble_Jacobian_data.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function [E, varargout] = assemble_Jacobian_data(nu_fun, X, elements, msh, evaluateResidual)
 %assemble_Jacobian_data assembles data struct for the Jacobian matrix.
 %

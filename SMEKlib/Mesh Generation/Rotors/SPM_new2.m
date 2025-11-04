@@ -1,3 +1,7 @@
+% ===================== 中文教学注释 =====================
+% 文件路径: Mesh Generation/Rotors/SPM_new2.m
+% 教学提示: 请结合 docs/教学导读.md 中相应章节阅读本文件，以理解其作用和关键算法。
+% ===================== 中文教学注释 =====================
 function msh = SPM_new2(msh,dim)
 %This function creates mesh for surface mounted permanent magnet machine
 %Ver. 0.4
